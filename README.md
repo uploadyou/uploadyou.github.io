@@ -1,2 +1,1 @@
 # uploadyou.github.io
-ようこそ！
